@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.greysond.benthosintellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.greysond.benthosintellijplugin.MyBundle
 
 class MyApplicationService {
 
